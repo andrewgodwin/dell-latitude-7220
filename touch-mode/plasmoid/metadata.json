@@ -1,0 +1,20 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "andrew@aeracode.org",
+                "Name": "Andrew Godwin"
+            }
+        ],
+        "Category": "System Information",
+        "Description": "Switch the Latitude 7220 touchscreen between Finger, Glove and Water modes",
+        "Icon": "input-touchscreen-symbolic",
+        "Id": "org.aeracode.latitude7220.touchmode",
+        "Name": "Touch Mode",
+        "Version": "1.0"
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-NotificationArea": "true",
+    "X-Plasma-NotificationAreaCategory": "Hardware"
+}
